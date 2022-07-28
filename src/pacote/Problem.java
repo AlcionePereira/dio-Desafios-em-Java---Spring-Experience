@@ -1,5 +1,14 @@
 package pacote;
 
+/*
+Faça um programa com as características abaixo:
+
+Leia 10 nomes, sem espaço em branco;
+Imprima o terceiro nome da lista;
+Imprima o sétimo nome da lista;
+Imprima o nono nome da lista.
+  */
+
 import java.util.Scanner;
 
 public class Problem {
